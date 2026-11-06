@@ -1,3 +1,5 @@
+// The sum of a range
+
 function range(start, end, step) {
     const rangeArray = [];
     const absoluteNum = Math.abs(step);
